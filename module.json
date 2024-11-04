@@ -42,5 +42,13 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "authors": [
+    {
+      "name": "Dito Vermelho",
+      "url": "https://github.com/ditovermelho/maldicao-da-rosa",
+      "discord": "Dito Vermelho",
+      "flags": {}
+    }
+  ]
 }
