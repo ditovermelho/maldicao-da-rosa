@@ -31,9 +31,9 @@
       }
     }
   ],
-  "url": "https://github.com/ditovermelho/rosa",
-  "manifest": "https://github.com/ditovermelho/rosa.git",
-  "download": "https://github.com/ditovermelho/rosa.git",
+  "url": "https://github.com/ditovermelho/maldicao-da-rosa",
+  "manifest": "https://github.com/ditovermelho/maldicao-da-rosa/blob/main/module.json",
+  "download": "https://github.com/ditovermelho/maldicao-da-rosa/archive/refs/heads/main.zip",
   "relationships": {
     "systems": [
       {
