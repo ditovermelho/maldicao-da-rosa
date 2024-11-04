@@ -1,0 +1,46 @@
+{
+  "id": "maldicao-da-rosa",
+  "title": "Maldição da Rosa",
+  "version": "1.0.7",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "description": "Modulo da Aventura Rua Principal",
+  "packs": [
+    {
+      "name": "aventura",
+      "label": "Aventura",
+      "path": "packs/aventura",
+      "type": "Adventure",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "extra",
+      "label": "extra",
+      "path": "packs/extra",
+      "type": "Item",
+      "system": "tormenta20",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "url": "https://github.com/ditovermelho/rosa",
+  "manifest": "https://github.com/ditovermelho/rosa.git",
+  "download": "https://github.com/ditovermelho/rosa.git",
+  "relationships": {
+    "systems": [
+      {
+        "id": "tormenta20",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
