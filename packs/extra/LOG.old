@@ -1,7 +1,3 @@
-2024/11/04-15:18:29.765 538c Recovering log #252
-2024/11/04-15:18:29.769 538c Delete type=0 #252
-2024/11/04-15:18:29.769 538c Delete type=3 #250
-2024/11/04-15:27:40.480 4ccc Level-0 table #258: started
-2024/11/04-15:27:40.480 4ccc Level-0 table #258: 0 bytes OK
-2024/11/04-15:27:40.483 4ccc Delete type=0 #256
-2024/11/04-15:27:40.487 4ccc Manual compaction at level-0 from '!folders!0Cn8pFEB9Wn9VCWC' @ 72057594037927935 : 1 .. '!items.effects!6PR8q3rBlwlkGVFh.DjpYZ6nqbvICksZX' @ 0 : 0; will stop at (end)
+2024/11/05-18:24:58.136 3abc Recovering log #264
+2024/11/05-18:24:58.139 3abc Delete type=0 #264
+2024/11/05-18:24:58.139 3abc Delete type=3 #263
