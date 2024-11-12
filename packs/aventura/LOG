@@ -1,3 +1,18 @@
-2024/11/05-19:27:08.873 3c14 Recovering log #346
-2024/11/05-19:27:08.876 3c14 Delete type=0 #346
-2024/11/05-19:27:08.876 3c14 Delete type=3 #345
+2024/11/12-16:09:24.767 4edc Recovering log #385
+2024/11/12-16:09:24.772 4edc Delete type=0 #385
+2024/11/12-16:09:24.772 4edc Delete type=3 #384
+2024/11/12-19:52:53.166 6dc Level-0 table #389: started
+2024/11/12-19:52:53.311 6dc Level-0 table #389: 1264418 bytes OK
+2024/11/12-19:52:53.316 6dc Delete type=0 #387
+2024/11/12-19:53:01.270 6dc Level-0 table #391: started
+2024/11/12-19:53:01.469 6dc Level-0 table #391: 1264419 bytes OK
+2024/11/12-19:53:01.471 6dc Delete type=0 #388
+2024/11/12-19:53:01.471 6dc Manual compaction at level-0 from '!adventures!8n1heYPd1p4KfSqV' @ 72057594037927935 : 1 .. '!adventures!8n1heYPd1p4KfSqV' @ 0 : 0; will stop at '!adventures!8n1heYPd1p4KfSqV' @ 33 : 1
+2024/11/12-19:53:01.471 6dc Compacting 2@0 + 1@1 files
+2024/11/12-19:53:01.652 6dc Generated table #392@0: 1 keys, 1264419 bytes
+2024/11/12-19:53:01.652 6dc Compacted 2@0 + 1@1 files => 1264419 bytes
+2024/11/12-19:53:01.653 6dc compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/11/12-19:53:01.654 6dc Delete type=2 #377
+2024/11/12-19:53:01.654 6dc Delete type=2 #389
+2024/11/12-19:53:01.655 6dc Delete type=2 #391
+2024/11/12-19:53:01.656 6dc Manual compaction at level-0 from '!adventures!8n1heYPd1p4KfSqV' @ 33 : 1 .. '!adventures!8n1heYPd1p4KfSqV' @ 0 : 0; will stop at (end)
