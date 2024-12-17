@@ -1,14 +1,14 @@
-2024/12/10-18:38:13.108 938 Recovering log #493
-2024/12/10-18:38:13.113 938 Delete type=0 #493
-2024/12/10-18:38:13.113 938 Delete type=3 #492
-2024/12/10-18:40:16.514 4f6c Level-0 table #497: started
-2024/12/10-18:40:16.661 4f6c Level-0 table #497: 1616355 bytes OK
-2024/12/10-18:40:16.663 4f6c Delete type=0 #495
-2024/12/10-18:40:16.664 4f6c Manual compaction at level-0 from '!adventures!8n1heYPd1p4KfSqV' @ 72057594037927935 : 1 .. '!adventures!8n1heYPd1p4KfSqV' @ 0 : 0; will stop at '!adventures!8n1heYPd1p4KfSqV' @ 39 : 1
-2024/12/10-18:40:16.664 4f6c Compacting 1@0 + 1@1 files
-2024/12/10-18:40:16.804 4f6c Generated table #498@0: 1 keys, 1616355 bytes
-2024/12/10-18:40:16.804 4f6c Compacted 1@0 + 1@1 files => 1616355 bytes
-2024/12/10-18:40:16.805 4f6c compacted to: files[ 0 1 2 0 0 0 0 ]
-2024/12/10-18:40:16.806 4f6c Delete type=2 #473
-2024/12/10-18:40:16.807 4f6c Delete type=2 #497
-2024/12/10-18:40:16.807 4f6c Manual compaction at level-0 from '!adventures!8n1heYPd1p4KfSqV' @ 39 : 1 .. '!adventures!8n1heYPd1p4KfSqV' @ 0 : 0; will stop at (end)
+2024/12/17-15:29:32.994 37c0 Recovering log #516
+2024/12/17-15:29:32.997 37c0 Delete type=0 #516
+2024/12/17-15:29:32.997 37c0 Delete type=3 #515
+2024/12/17-16:33:42.315 3d74 Level-0 table #520: started
+2024/12/17-16:33:42.492 3d74 Level-0 table #520: 1673859 bytes OK
+2024/12/17-16:33:42.494 3d74 Delete type=0 #518
+2024/12/17-16:33:42.494 3d74 Manual compaction at level-0 from '!adventures!8n1heYPd1p4KfSqV' @ 72057594037927935 : 1 .. '!adventures!8n1heYPd1p4KfSqV' @ 0 : 0; will stop at '!adventures!8n1heYPd1p4KfSqV' @ 40 : 1
+2024/12/17-16:33:42.494 3d74 Compacting 1@0 + 1@1 files
+2024/12/17-16:33:42.670 3d74 Generated table #521@0: 1 keys, 1673859 bytes
+2024/12/17-16:33:42.670 3d74 Compacted 1@0 + 1@1 files => 1673859 bytes
+2024/12/17-16:33:42.672 3d74 compacted to: files[ 0 1 2 0 0 0 0 ]
+2024/12/17-16:33:42.673 3d74 Delete type=2 #498
+2024/12/17-16:33:42.675 3d74 Delete type=2 #520
+2024/12/17-16:33:42.676 3d74 Manual compaction at level-0 from '!adventures!8n1heYPd1p4KfSqV' @ 40 : 1 .. '!adventures!8n1heYPd1p4KfSqV' @ 0 : 0; will stop at (end)
